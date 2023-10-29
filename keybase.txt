@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/taka0318
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://t0fana.github.io
+  * I am taka0318 (https://keybase.io/taka0318) on keybase.
+  * I have a public key ASCeYpsBHMQ4JPNU25caT8shbgkSLJZeihYrON3krAvgpAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120047c4e87cf9c4914587d7fc4f4baabd409da48a3fc8091e1c3ca54fd57b7a04f0a",
+      "host": "keybase.io",
+      "kid": "01209e629b011cc43824f354db971a4fcb216e09122c965e8a162b38dde4ac0be0a40a",
+      "uid": "3a4049b98ddbb6ac7151f5900e158d19",
+      "username": "taka0318"
+    },
+    "merkle_root": {
+      "ctime": 1698544860,
+      "hash": "6d4a792726642f09a2486a53bce76ace6f815bc37d6d7d95aaddeabe7d253e3d327066474bb3262758aa77f6f0388c23d6f9a000a4312a24d9adba414668d7e2",
+      "hash_meta": "d5be43f0ba1c26525f4bba5b20aa94d92c58cf43e2c27adacaf4ae66ef90babe",
+      "seqno": 25083312
+    },
+    "service": {
+      "entropy": "8TGSUjuFyetvgcMTov56K18Z",
+      "hostname": "t0fana.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.3"
+  },
+  "ctime": 1698544887,
+  "expire_in": 504576000,
+  "prev": "1724096a4e2261a6da91db8183d992dfc95b0edd6976eaaf320bf23aa28c2fa9",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnmKbARzEOCTzVNuXGk/LIW4JEiyWXooWKzjd5KwL4KQKp3BheWxvYWTESpcCDcQgFyQJak4iYabakduBg9mS38lbDt1pduqvMgvyOqKML6nEIEmpAaYSeH1FAHs8XYbMrQKqtBl6Bzq4lfdmOu9DtPjsAgHCo3NpZ8RAg9qd86EgSLnfbg3xfcQUgUc5sW9iKd2BUpvP2Z1g3cCMyeHHdOYHGQlWDqyZYSMIzLtstTp4UDaSrgNMSL/7C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEmwlJSyY6GDpYHDtJn7Q3pSAFIghxyPrjEIIgoBdI0ko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/taka0318
+
+==================================================================
